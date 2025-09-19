@@ -1,21 +1,5 @@
 [
   {
-    "id": "pathway_17_1758262710",
-    "title": "Tech Stocks Rally on AI Investment News",
-    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
-    "url": "https://bloomberg.com/article/17",
-    "timestamp": "2025-09-19T06:18:30.726151",
-    "source": "Market Data"
-  },
-  {
-    "id": "pathway_18_1758262740",
-    "title": "Google's Gemini Model Shows Breakthrough in Code Generation",
-    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
-    "url": "https://techcrunch.com/article/18",
-    "timestamp": "2025-09-19T06:19:00.729145",
-    "source": "Tech News"
-  },
-  {
     "id": "pathway_19_1758262771",
     "title": "Microsoft Integrates AI Assistants Across Office Suite",
     "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
@@ -797,6 +781,22 @@
     "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
     "url": "https://marketwatch.com/article/31",
     "timestamp": "2025-09-19T07:58:14.181568",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_32_1758268751",
+    "title": "SaaS Companies Report Strong Q1 Earnings",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://marketwatch.com/article/32",
+    "timestamp": "2025-09-19T07:59:11.184670",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_33_1758268803",
+    "title": "Cybersecurity Spending Increases 45% Year-over-Year",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://bloomberg.com/article/33",
+    "timestamp": "2025-09-19T08:00:03.186433",
     "source": "Market Data"
   }
 ]
