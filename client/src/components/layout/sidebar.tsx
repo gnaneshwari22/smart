@@ -16,15 +16,23 @@ import {
 } from "lucide-react";
 import { Link } from "wouter";
 
+interface StatsResponse {
+  credits: number;
+  totalReports: number;
+  totalCreditsUsed: number;
+  documentsUploaded: number;
+  liveSources: number;
+}
+
 export function Sidebar() {
   const { user } = useAuth();
   
   // Fetch user stats for credit display
-  const { data: stats } = useQuery({
+  const { data: stats } = useQuery<StatsResponse>({
     queryKey: ["/api/analytics/stats"],
   });
 
-  const credits = stats?.credits || 0;
+  const credits = stats?.credits || user?.credits || 0;
   const maxCredits = 50; // Default free tier
   const creditPercentage = (credits / maxCredits) * 100;
 

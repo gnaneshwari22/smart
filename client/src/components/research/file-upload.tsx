@@ -17,15 +17,7 @@ import {
   CheckCircle,
   AlertCircle
 } from "lucide-react";
-
-interface UploadedFile {
-  id: string;
-  originalName: string;
-  filename: string;
-  size: number;
-  mimeType: string;
-  createdAt: string;
-}
+import { Document } from "@shared/schema";
 
 export function FileUpload() {
   const { toast } = useToast();
@@ -33,7 +25,7 @@ export function FileUpload() {
   const [uploadProgress, setUploadProgress] = useState<Record<string, number>>({});
 
   // Fetch existing documents
-  const { data: documents, isLoading: documentsLoading } = useQuery({
+  const { data: documents, isLoading: documentsLoading } = useQuery<Document[]>({
     queryKey: ["/api/documents"],
   });
 
@@ -269,7 +261,7 @@ export function FileUpload() {
             </div>
           ) : documents && documents.length > 0 ? (
             <div className="space-y-2 max-h-48 overflow-y-auto">
-              {documents.map((doc: UploadedFile) => (
+              {documents.map((doc: Document) => (
                 <div 
                   key={doc.id} 
                   className="flex items-center justify-between p-3 bg-secondary rounded-md"
@@ -282,7 +274,7 @@ export function FileUpload() {
                         {doc.originalName}
                       </p>
                       <p className="text-xs text-muted-foreground">
-                        {formatFileSize(doc.size)} • {new Date(doc.createdAt).toLocaleDateString()}
+                        {formatFileSize(doc.size)} • {doc.createdAt ? new Date(doc.createdAt).toLocaleDateString() : 'Unknown date'}
                       </p>
                     </div>
                   </div>

@@ -8,6 +8,7 @@ import { useQuery } from "@tanstack/react-query";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { Report, LiveDataSource } from "@shared/schema";
 import { 
   FileText, 
   Coins, 
@@ -21,6 +22,14 @@ import {
   Quote,
   Plus
 } from "lucide-react";
+
+interface StatsResponse {
+  totalReports: number;
+  totalCreditsUsed: number;
+  documentsUploaded: number;
+  liveSources: number;
+  credits: number;
+}
 
 export default function Home() {
   const { toast } = useToast();
@@ -42,19 +51,19 @@ export default function Home() {
   }, [isAuthenticated, isLoading, toast]);
 
   // Fetch user stats
-  const { data: stats, isLoading: statsLoading } = useQuery({
+  const { data: stats, isLoading: statsLoading } = useQuery<StatsResponse>({
     queryKey: ["/api/analytics/stats"],
     enabled: isAuthenticated,
   });
 
   // Fetch recent reports
-  const { data: reports, isLoading: reportsLoading } = useQuery({
+  const { data: reports, isLoading: reportsLoading } = useQuery<Report[]>({
     queryKey: ["/api/reports"],
     enabled: isAuthenticated,
   });
 
   // Fetch live data sources
-  const { data: liveSources } = useQuery({
+  const { data: liveSources } = useQuery<LiveDataSource[]>({
     queryKey: ["/api/live-data/sources"],
     enabled: isAuthenticated,
   });
@@ -185,7 +194,7 @@ export default function Home() {
                       {source.type === 'news' ? 'Latest technology and AI news' : 'Financial and market trends'}
                     </p>
                     <p className="text-xs text-muted-foreground">
-                      Last update: {source.lastUpdate ? new Date(source.lastUpdate).toRelativeTimeString() : '5 minutes ago'}
+                      Last update: {source.lastUpdate ? new Date(source.lastUpdate).toLocaleTimeString() : '5 minutes ago'}
                     </p>
                   </div>
                 )) || (
