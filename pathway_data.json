@@ -1,162 +1,802 @@
 [
   {
-    "id": "pathway_0_1758261078",
-    "title": "Cloud Computing Revenue Exceeds Projections",
-    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
-    "url": "https://bloomberg.com/article/0",
-    "timestamp": "2025-09-19T05:51:18.237643",
-    "source": "Market Data"
-  },
-  {
-    "id": "pathway_1_1758261114",
-    "title": "SaaS Companies Report Strong Q1 Earnings",
-    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
-    "url": "https://bloomberg.com/article/1",
-    "timestamp": "2025-09-19T05:51:54.238806",
-    "source": "Market Data"
-  },
-  {
-    "id": "pathway_2_1758261146",
-    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
-    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
-    "url": "https://arstechnica.com/article/2",
-    "timestamp": "2025-09-19T05:52:26.239451",
-    "source": "Tech News"
-  },
-  {
-    "id": "pathway_3_1758261179",
-    "title": "SaaS Companies Report Strong Q1 Earnings",
-    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
-    "url": "https://marketwatch.com/article/3",
-    "timestamp": "2025-09-19T05:52:59.240822",
-    "source": "Market Data"
-  },
-  {
-    "id": "pathway_4_1758261209",
-    "title": "SaaS Companies Report Strong Q1 Earnings",
-    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
-    "url": "https://marketwatch.com/article/4",
-    "timestamp": "2025-09-19T05:53:29.241483",
-    "source": "Market Data"
-  },
-  {
-    "id": "pathway_5_1758261268",
-    "title": "Cloud Computing Revenue Exceeds Projections",
-    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
-    "url": "https://bloomberg.com/article/5",
-    "timestamp": "2025-09-19T05:54:28.243296",
-    "source": "Market Data"
-  },
-  {
-    "id": "pathway_6_1758261317",
-    "title": "Cybersecurity Spending Increases 45% Year-over-Year",
-    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
-    "url": "https://bloomberg.com/article/6",
-    "timestamp": "2025-09-19T05:55:17.244119",
-    "source": "Market Data"
-  },
-  {
-    "id": "pathway_7_1758261354",
-    "title": "Google's Gemini Model Shows Breakthrough in Code Generation",
-    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
-    "url": "https://arstechnica.com/article/7",
-    "timestamp": "2025-09-19T05:55:54.244967",
-    "source": "Tech News"
-  },
-  {
-    "id": "pathway_8_1758261385",
-    "title": "Microsoft Integrates AI Assistants Across Office Suite",
-    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
-    "url": "https://arstechnica.com/article/8",
-    "timestamp": "2025-09-19T05:56:25.245747",
-    "source": "Tech News"
-  },
-  {
-    "id": "pathway_9_1758261422",
-    "title": "Google's Gemini Model Shows Breakthrough in Code Generation",
-    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
-    "url": "https://arstechnica.com/article/9",
-    "timestamp": "2025-09-19T05:57:02.246600",
-    "source": "Tech News"
-  },
-  {
-    "id": "pathway_10_1758261461",
-    "title": "Startup Funding Reaches Record Highs in Q1 2024",
-    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
-    "url": "https://techcrunch.com/article/10",
-    "timestamp": "2025-09-19T05:57:41.247382",
-    "source": "Tech News"
-  },
-  {
-    "id": "pathway_11_1758261507",
-    "title": "Venture Capital Focuses on AI Infrastructure",
-    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
-    "url": "https://marketwatch.com/article/11",
-    "timestamp": "2025-09-19T05:58:27.249638",
-    "source": "Market Data"
-  },
-  {
-    "id": "pathway_0_1758261565",
+    "id": "pathway_17_1758262710",
     "title": "Tech Stocks Rally on AI Investment News",
-    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
-    "url": "https://marketwatch.com/article/0",
-    "timestamp": "2025-09-19T05:59:25.885265",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://bloomberg.com/article/17",
+    "timestamp": "2025-09-19T06:18:30.726151",
     "source": "Market Data"
   },
   {
-    "id": "pathway_1_1758261607",
-    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
-    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
-    "url": "https://techcrunch.com/article/1",
-    "timestamp": "2025-09-19T06:00:07.886264",
-    "source": "Tech News"
-  },
-  {
-    "id": "pathway_2_1758261639",
-    "title": "Microsoft Integrates AI Assistants Across Office Suite",
-    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
-    "url": "https://arstechnica.com/article/2",
-    "timestamp": "2025-09-19T06:00:39.887033",
-    "source": "Tech News"
-  },
-  {
-    "id": "pathway_3_1758261694",
+    "id": "pathway_18_1758262740",
     "title": "Google's Gemini Model Shows Breakthrough in Code Generation",
-    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
-    "url": "https://arstechnica.com/article/3",
-    "timestamp": "2025-09-19T06:01:34.888628",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://techcrunch.com/article/18",
+    "timestamp": "2025-09-19T06:19:00.729145",
     "source": "Tech News"
   },
   {
-    "id": "pathway_4_1758261734",
+    "id": "pathway_19_1758262771",
+    "title": "Microsoft Integrates AI Assistants Across Office Suite",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://techcrunch.com/article/19",
+    "timestamp": "2025-09-19T06:19:31.730214",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_20_1758262816",
+    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://arstechnica.com/article/20",
+    "timestamp": "2025-09-19T06:20:16.731567",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_21_1758262858",
+    "title": "Venture Capital Focuses on AI Infrastructure",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://marketwatch.com/article/21",
+    "timestamp": "2025-09-19T06:20:58.733620",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_22_1758262901",
+    "title": "Microsoft Integrates AI Assistants Across Office Suite",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://techcrunch.com/article/22",
+    "timestamp": "2025-09-19T06:21:41.735519",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_23_1758262941",
+    "title": "Startup Funding Reaches Record Highs in Q1 2024",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://arstechnica.com/article/23",
+    "timestamp": "2025-09-19T06:22:21.737396",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_24_1758262984",
+    "title": "Google's Gemini Model Shows Breakthrough in Code Generation",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://techcrunch.com/article/24",
+    "timestamp": "2025-09-19T06:23:04.739164",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_25_1758263025",
+    "title": "Venture Capital Focuses on AI Infrastructure",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://bloomberg.com/article/25",
+    "timestamp": "2025-09-19T06:23:45.741031",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_26_1758263060",
+    "title": "OpenAI Releases New GPT-5 Model with Enhanced Reasoning",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://techcrunch.com/article/26",
+    "timestamp": "2025-09-19T06:24:20.742138",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_27_1758263105",
+    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://arstechnica.com/article/27",
+    "timestamp": "2025-09-19T06:25:05.746150",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_28_1758263156",
+    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://techcrunch.com/article/28",
+    "timestamp": "2025-09-19T06:25:56.747489",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_29_1758263193",
+    "title": "Venture Capital Focuses on AI Infrastructure",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://bloomberg.com/article/29",
+    "timestamp": "2025-09-19T06:26:33.748559",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_30_1758263247",
+    "title": "OpenAI Releases New GPT-5 Model with Enhanced Reasoning",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://arstechnica.com/article/30",
+    "timestamp": "2025-09-19T06:27:27.750097",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_31_1758263282",
+    "title": "Cybersecurity Spending Increases 45% Year-over-Year",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://marketwatch.com/article/31",
+    "timestamp": "2025-09-19T06:28:02.753188",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_32_1758263321",
     "title": "Cloud Computing Revenue Exceeds Projections",
     "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
-    "url": "https://marketwatch.com/article/4",
-    "timestamp": "2025-09-19T06:02:14.889619",
+    "url": "https://bloomberg.com/article/32",
+    "timestamp": "2025-09-19T06:28:41.754955",
     "source": "Market Data"
   },
   {
-    "id": "pathway_5_1758261767",
+    "id": "pathway_33_1758263365",
+    "title": "Google's Gemini Model Shows Breakthrough in Code Generation",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://techcrunch.com/article/33",
+    "timestamp": "2025-09-19T06:29:25.755977",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_34_1758263424",
+    "title": "SaaS Companies Report Strong Q1 Earnings",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://bloomberg.com/article/34",
+    "timestamp": "2025-09-19T06:30:24.757424",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_35_1758263473",
+    "title": "Cloud Computing Revenue Exceeds Projections",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://marketwatch.com/article/35",
+    "timestamp": "2025-09-19T06:31:13.758717",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_36_1758263508",
+    "title": "SaaS Companies Report Strong Q1 Earnings",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://bloomberg.com/article/36",
+    "timestamp": "2025-09-19T06:31:48.761245",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_37_1758263560",
+    "title": "OpenAI Releases New GPT-5 Model with Enhanced Reasoning",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://techcrunch.com/article/37",
+    "timestamp": "2025-09-19T06:32:40.762561",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_38_1758263615",
+    "title": "Startup Funding Reaches Record Highs in Q1 2024",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://arstechnica.com/article/38",
+    "timestamp": "2025-09-19T06:33:35.764460",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_39_1758263666",
+    "title": "SaaS Companies Report Strong Q1 Earnings",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://bloomberg.com/article/39",
+    "timestamp": "2025-09-19T06:34:26.766403",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_40_1758263715",
+    "title": "OpenAI Releases New GPT-5 Model with Enhanced Reasoning",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://techcrunch.com/article/40",
+    "timestamp": "2025-09-19T06:35:15.769088",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_41_1758263773",
+    "title": "Google's Gemini Model Shows Breakthrough in Code Generation",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://techcrunch.com/article/41",
+    "timestamp": "2025-09-19T06:36:13.770684",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_42_1758263824",
+    "title": "Google's Gemini Model Shows Breakthrough in Code Generation",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://arstechnica.com/article/42",
+    "timestamp": "2025-09-19T06:37:04.773174",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_43_1758263871",
+    "title": "Google's Gemini Model Shows Breakthrough in Code Generation",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://techcrunch.com/article/43",
+    "timestamp": "2025-09-19T06:37:51.775928",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_44_1758263905",
+    "title": "Tech Stocks Rally on AI Investment News",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://bloomberg.com/article/44",
+    "timestamp": "2025-09-19T06:38:25.778221",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_45_1758263963",
     "title": "Tech Stocks Rally on AI Investment News",
     "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
-    "url": "https://marketwatch.com/article/5",
-    "timestamp": "2025-09-19T06:02:47.890769",
+    "url": "https://bloomberg.com/article/45",
+    "timestamp": "2025-09-19T06:39:23.779849",
     "source": "Market Data"
   },
   {
-    "id": "pathway_6_1758261809",
-    "title": "Tech Stocks Rally on AI Investment News",
-    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
-    "url": "https://bloomberg.com/article/6",
-    "timestamp": "2025-09-19T06:03:29.892355",
+    "id": "pathway_46_1758264013",
+    "title": "Google's Gemini Model Shows Breakthrough in Code Generation",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://arstechnica.com/article/46",
+    "timestamp": "2025-09-19T06:40:13.781457",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_47_1758264047",
+    "title": "Cybersecurity Spending Increases 45% Year-over-Year",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://marketwatch.com/article/47",
+    "timestamp": "2025-09-19T06:40:47.786461",
     "source": "Market Data"
   },
   {
-    "id": "pathway_7_1758261865",
+    "id": "pathway_48_1758264097",
     "title": "Tech Stocks Rally on AI Investment News",
     "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://marketwatch.com/article/48",
+    "timestamp": "2025-09-19T06:41:37.788255",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_49_1758264142",
+    "title": "SaaS Companies Report Strong Q1 Earnings",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://marketwatch.com/article/49",
+    "timestamp": "2025-09-19T06:42:22.789662",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_50_1758264182",
+    "title": "OpenAI Releases New GPT-5 Model with Enhanced Reasoning",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://arstechnica.com/article/50",
+    "timestamp": "2025-09-19T06:43:02.791186",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_51_1758264239",
+    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://arstechnica.com/article/51",
+    "timestamp": "2025-09-19T06:43:59.793151",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_52_1758264270",
+    "title": "SaaS Companies Report Strong Q1 Earnings",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://marketwatch.com/article/52",
+    "timestamp": "2025-09-19T06:44:30.796487",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_53_1758264318",
+    "title": "Tech Stocks Rally on AI Investment News",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://marketwatch.com/article/53",
+    "timestamp": "2025-09-19T06:45:18.800275",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_54_1758264349",
+    "title": "Venture Capital Focuses on AI Infrastructure",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://marketwatch.com/article/54",
+    "timestamp": "2025-09-19T06:45:49.802484",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_55_1758264391",
+    "title": "Venture Capital Focuses on AI Infrastructure",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://marketwatch.com/article/55",
+    "timestamp": "2025-09-19T06:46:31.804244",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_56_1758264437",
+    "title": "Tech Stocks Rally on AI Investment News",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://bloomberg.com/article/56",
+    "timestamp": "2025-09-19T06:47:17.805670",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_57_1758264495",
+    "title": "SaaS Companies Report Strong Q1 Earnings",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://bloomberg.com/article/57",
+    "timestamp": "2025-09-19T06:48:15.808955",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_58_1758264525",
+    "title": "OpenAI Releases New GPT-5 Model with Enhanced Reasoning",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://techcrunch.com/article/58",
+    "timestamp": "2025-09-19T06:48:45.810826",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_59_1758264567",
+    "title": "Google's Gemini Model Shows Breakthrough in Code Generation",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://techcrunch.com/article/59",
+    "timestamp": "2025-09-19T06:49:27.813116",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_60_1758264601",
+    "title": "Startup Funding Reaches Record Highs in Q1 2024",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://arstechnica.com/article/60",
+    "timestamp": "2025-09-19T06:50:01.814852",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_61_1758264656",
+    "title": "OpenAI Releases New GPT-5 Model with Enhanced Reasoning",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://arstechnica.com/article/61",
+    "timestamp": "2025-09-19T06:50:56.816418",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_62_1758264696",
+    "title": "Cybersecurity Spending Increases 45% Year-over-Year",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://marketwatch.com/article/62",
+    "timestamp": "2025-09-19T06:51:36.817991",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_63_1758264731",
+    "title": "Cloud Computing Revenue Exceeds Projections",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://bloomberg.com/article/63",
+    "timestamp": "2025-09-19T06:52:11.820222",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_64_1758264763",
+    "title": "Microsoft Integrates AI Assistants Across Office Suite",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://techcrunch.com/article/64",
+    "timestamp": "2025-09-19T06:52:43.823085",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_65_1758264814",
+    "title": "SaaS Companies Report Strong Q1 Earnings",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://marketwatch.com/article/65",
+    "timestamp": "2025-09-19T06:53:34.825730",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_66_1758264853",
+    "title": "Microsoft Integrates AI Assistants Across Office Suite",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://techcrunch.com/article/66",
+    "timestamp": "2025-09-19T06:54:13.827778",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_67_1758264885",
+    "title": "Tech Stocks Rally on AI Investment News",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://bloomberg.com/article/67",
+    "timestamp": "2025-09-19T06:54:45.829699",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_68_1758264942",
+    "title": "Microsoft Integrates AI Assistants Across Office Suite",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://techcrunch.com/article/68",
+    "timestamp": "2025-09-19T06:55:42.831960",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_69_1758265002",
+    "title": "OpenAI Releases New GPT-5 Model with Enhanced Reasoning",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://techcrunch.com/article/69",
+    "timestamp": "2025-09-19T06:56:42.834635",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_70_1758265054",
+    "title": "Venture Capital Focuses on AI Infrastructure",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://marketwatch.com/article/70",
+    "timestamp": "2025-09-19T06:57:34.836360",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_71_1758265108",
+    "title": "Tech Stocks Rally on AI Investment News",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://bloomberg.com/article/71",
+    "timestamp": "2025-09-19T06:58:28.838730",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_72_1758265165",
+    "title": "Tech Stocks Rally on AI Investment News",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://marketwatch.com/article/72",
+    "timestamp": "2025-09-19T06:59:25.841712",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_73_1758265213",
+    "title": "Google's Gemini Model Shows Breakthrough in Code Generation",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://techcrunch.com/article/73",
+    "timestamp": "2025-09-19T07:00:13.844162",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_74_1758265262",
+    "title": "Microsoft Integrates AI Assistants Across Office Suite",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://techcrunch.com/article/74",
+    "timestamp": "2025-09-19T07:01:02.847024",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_75_1758265299",
+    "title": "Cybersecurity Spending Increases 45% Year-over-Year",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://bloomberg.com/article/75",
+    "timestamp": "2025-09-19T07:01:39.849185",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_76_1758265332",
+    "title": "SaaS Companies Report Strong Q1 Earnings",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://bloomberg.com/article/76",
+    "timestamp": "2025-09-19T07:02:12.850960",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_77_1758265380",
+    "title": "Cybersecurity Spending Increases 45% Year-over-Year",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://marketwatch.com/article/77",
+    "timestamp": "2025-09-19T07:03:00.855277",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_78_1758265438",
+    "title": "Startup Funding Reaches Record Highs in Q1 2024",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://techcrunch.com/article/78",
+    "timestamp": "2025-09-19T07:03:58.857228",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_79_1758265473",
+    "title": "Startup Funding Reaches Record Highs in Q1 2024",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://arstechnica.com/article/79",
+    "timestamp": "2025-09-19T07:04:33.858960",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_80_1758265531",
+    "title": "Cloud Computing Revenue Exceeds Projections",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://bloomberg.com/article/80",
+    "timestamp": "2025-09-19T07:05:31.861892",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_81_1758265579",
+    "title": "Microsoft Integrates AI Assistants Across Office Suite",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://techcrunch.com/article/81",
+    "timestamp": "2025-09-19T07:06:19.863879",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_82_1758265624",
+    "title": "Tech Stocks Rally on AI Investment News",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://marketwatch.com/article/82",
+    "timestamp": "2025-09-19T07:07:04.865556",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_83_1758265663",
+    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://arstechnica.com/article/83",
+    "timestamp": "2025-09-19T07:07:43.871204",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_84_1758265699",
+    "title": "OpenAI Releases New GPT-5 Model with Enhanced Reasoning",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://arstechnica.com/article/84",
+    "timestamp": "2025-09-19T07:08:19.873946",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_0_1758267334",
+    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://arstechnica.com/article/0",
+    "timestamp": "2025-09-19T07:35:34.105053",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_1_1758267371",
+    "title": "Tech Stocks Rally on AI Investment News",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://bloomberg.com/article/1",
+    "timestamp": "2025-09-19T07:36:11.109425",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_2_1758267409",
+    "title": "Startup Funding Reaches Record Highs in Q1 2024",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://arstechnica.com/article/2",
+    "timestamp": "2025-09-19T07:36:49.112667",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_3_1758267462",
+    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://techcrunch.com/article/3",
+    "timestamp": "2025-09-19T07:37:42.114285",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_4_1758267512",
+    "title": "OpenAI Releases New GPT-5 Model with Enhanced Reasoning",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://arstechnica.com/article/4",
+    "timestamp": "2025-09-19T07:38:32.115771",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_5_1758267565",
+    "title": "OpenAI Releases New GPT-5 Model with Enhanced Reasoning",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://arstechnica.com/article/5",
+    "timestamp": "2025-09-19T07:39:25.117454",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_6_1758267612",
+    "title": "Cybersecurity Spending Increases 45% Year-over-Year",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://marketwatch.com/article/6",
+    "timestamp": "2025-09-19T07:40:12.119467",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_7_1758267662",
+    "title": "Venture Capital Focuses on AI Infrastructure",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
     "url": "https://marketwatch.com/article/7",
-    "timestamp": "2025-09-19T06:04:25.893416",
+    "timestamp": "2025-09-19T07:41:02.121464",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_8_1758267698",
+    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://arstechnica.com/article/8",
+    "timestamp": "2025-09-19T07:41:38.127239",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_9_1758267738",
+    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://arstechnica.com/article/9",
+    "timestamp": "2025-09-19T07:42:18.129543",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_10_1758267789",
+    "title": "Cloud Computing Revenue Exceeds Projections",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://marketwatch.com/article/10",
+    "timestamp": "2025-09-19T07:43:09.132503",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_11_1758267827",
+    "title": "Google's Gemini Model Shows Breakthrough in Code Generation",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://arstechnica.com/article/11",
+    "timestamp": "2025-09-19T07:43:47.134814",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_12_1758267875",
+    "title": "Cloud Computing Revenue Exceeds Projections",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://bloomberg.com/article/12",
+    "timestamp": "2025-09-19T07:44:35.137943",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_13_1758267916",
+    "title": "Microsoft Integrates AI Assistants Across Office Suite",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://techcrunch.com/article/13",
+    "timestamp": "2025-09-19T07:45:16.139545",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_14_1758267962",
+    "title": "Startup Funding Reaches Record Highs in Q1 2024",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://arstechnica.com/article/14",
+    "timestamp": "2025-09-19T07:46:02.141549",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_15_1758268009",
+    "title": "Microsoft Integrates AI Assistants Across Office Suite",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://arstechnica.com/article/15",
+    "timestamp": "2025-09-19T07:46:49.144143",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_16_1758268051",
+    "title": "Cloud Computing Revenue Exceeds Projections",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://bloomberg.com/article/16",
+    "timestamp": "2025-09-19T07:47:31.145987",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_17_1758268088",
+    "title": "Venture Capital Focuses on AI Infrastructure",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://bloomberg.com/article/17",
+    "timestamp": "2025-09-19T07:48:08.148069",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_18_1758268123",
+    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://arstechnica.com/article/18",
+    "timestamp": "2025-09-19T07:48:43.150192",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_19_1758268158",
+    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://techcrunch.com/article/19",
+    "timestamp": "2025-09-19T07:49:18.152466",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_20_1758268201",
+    "title": "Microsoft Integrates AI Assistants Across Office Suite",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://arstechnica.com/article/20",
+    "timestamp": "2025-09-19T07:50:01.154601",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_21_1758268249",
+    "title": "Tech Stocks Rally on AI Investment News",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://bloomberg.com/article/21",
+    "timestamp": "2025-09-19T07:50:49.156349",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_22_1758268297",
+    "title": "SaaS Companies Report Strong Q1 Earnings",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://bloomberg.com/article/22",
+    "timestamp": "2025-09-19T07:51:37.158308",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_23_1758268334",
+    "title": "OpenAI Releases New GPT-5 Model with Enhanced Reasoning",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://techcrunch.com/article/23",
+    "timestamp": "2025-09-19T07:52:14.160083",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_24_1758268392",
+    "title": "Venture Capital Focuses on AI Infrastructure",
+    "content": "Integration of AI assistants into existing software ecosystems is accelerating, providing users with intelligent automation capabilities across multiple platforms and workflows.",
+    "url": "https://bloomberg.com/article/24",
+    "timestamp": "2025-09-19T07:53:12.165750",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_25_1758268452",
+    "title": "Cloud Computing Revenue Exceeds Projections",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://marketwatch.com/article/25",
+    "timestamp": "2025-09-19T07:54:12.168468",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_26_1758268484",
+    "title": "Microsoft Integrates AI Assistants Across Office Suite",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://arstechnica.com/article/26",
+    "timestamp": "2025-09-19T07:54:44.170253",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_27_1758268519",
+    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://techcrunch.com/article/27",
+    "timestamp": "2025-09-19T07:55:19.171812",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_28_1758268568",
+    "title": "Tech Stocks Rally on AI Investment News",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://marketwatch.com/article/28",
+    "timestamp": "2025-09-19T07:56:08.173682",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_29_1758268617",
+    "title": "Microsoft Integrates AI Assistants Across Office Suite",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://techcrunch.com/article/29",
+    "timestamp": "2025-09-19T07:56:57.176185",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_30_1758268660",
+    "title": "Cloud Computing Revenue Exceeds Projections",
+    "content": "Investment patterns indicate a strong preference for AI and automation technologies, with funding rounds averaging 60% higher than previous quarters for companies in this sector.",
+    "url": "https://marketwatch.com/article/30",
+    "timestamp": "2025-09-19T07:57:40.179623",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_31_1758268694",
+    "title": "Cloud Computing Revenue Exceeds Projections",
+    "content": "Recent market analysis shows unprecedented growth in AI-powered tools, with enterprise adoption increasing by 340% year-over-year. Companies are investing heavily in automation and productivity enhancement solutions.",
+    "url": "https://marketwatch.com/article/31",
+    "timestamp": "2025-09-19T07:58:14.181568",
     "source": "Market Data"
   }
 ]
