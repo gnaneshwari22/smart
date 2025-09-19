@@ -15,7 +15,7 @@ if (!process.env.STRIPE_SECRET_KEY) {
 }
 
 const stripe = process.env.STRIPE_SECRET_KEY ? new Stripe(process.env.STRIPE_SECRET_KEY, {
-  apiVersion: "2023-10-16",
+  apiVersion: "2025-08-27.basil",
 }) : null;
 
 export async function registerRoutes(app: Express): Promise<Server> {
@@ -88,7 +88,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
         } catch (error) {
           console.error(`Error processing file ${file.originalname}:`, error);
           return res.status(500).json({ 
-            message: `Failed to process file ${file.originalname}: ${error.message}` 
+            message: `Failed to process file ${file.originalname}: ${error instanceof Error ? error.message : 'Unknown error'}` 
           });
         }
       }
@@ -143,7 +143,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
       
       // Check user credits
       const user = await storage.getUser(userId);
-      if (!user || user.credits < 1) {
+      if (!user || (user.credits ?? 0) < 1) {
         return res.status(402).json({ 
           message: "Insufficient credits. Please purchase more credits to generate reports." 
         });
@@ -183,7 +183,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
       
       console.error("Report generation error:", error);
       res.status(500).json({ 
-        message: `Failed to generate report: ${error.message}` 
+        message: `Failed to generate report: ${error instanceof Error ? error.message : 'Unknown error'}` 
       });
     }
   });
@@ -315,7 +315,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
           // Add credits to user account
           const user = await storage.getUser(userId);
           if (user) {
-            await storage.updateUserCredits(userId, user.credits + credits);
+            await storage.updateUserCredits(userId, (user.credits ?? 0) + credits);
             
             // Track purchase event
             await storage.createUsageEvent(userId, 'credits_purchased', -credits, {
