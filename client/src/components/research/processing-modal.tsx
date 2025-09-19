@@ -129,7 +129,6 @@ export function ProcessingModal({ isOpen, onClose }: ProcessingModalProps) {
       <DialogContent 
         className="max-w-md" 
         data-testid="dialog-processing"
-        hideCloseButton
       >
         <DialogHeader className="text-center">
           <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
