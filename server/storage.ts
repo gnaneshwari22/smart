@@ -38,6 +38,7 @@ export interface IStorage {
   // Live data sources
   getLiveDataSources(): Promise<LiveDataSource[]>;
   getActiveLiveDataSources(): Promise<LiveDataSource[]>;
+  createLiveDataSource(name: string, type: string, url?: string, metadata?: any): Promise<LiveDataSource>;
   updateLiveDataSource(id: string, lastUpdate: Date, metadata?: any): Promise<void>;
   
   // Usage tracking
@@ -171,6 +172,14 @@ export class DatabaseStorage implements IStorage {
       .select()
       .from(liveDataSources)
       .where(eq(liveDataSources.isActive, true));
+  }
+
+  async createLiveDataSource(name: string, type: string, url?: string, metadata?: any): Promise<LiveDataSource> {
+    const [newSource] = await db
+      .insert(liveDataSources)
+      .values({ name, type, url, metadata, lastUpdate: new Date() })
+      .returning();
+    return newSource;
   }
 
   async updateLiveDataSource(id: string, lastUpdate: Date, metadata?: any): Promise<void> {

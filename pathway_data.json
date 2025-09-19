@@ -14,5 +14,37 @@
     "url": "https://bloomberg.com/article/1",
     "timestamp": "2025-09-19T05:51:54.238806",
     "source": "Market Data"
+  },
+  {
+    "id": "pathway_2_1758261146",
+    "title": "AI Productivity Tools See 340% Growth in Enterprise Adoption",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://arstechnica.com/article/2",
+    "timestamp": "2025-09-19T05:52:26.239451",
+    "source": "Tech News"
+  },
+  {
+    "id": "pathway_3_1758261179",
+    "title": "SaaS Companies Report Strong Q1 Earnings",
+    "content": "The latest developments in artificial intelligence are transforming how businesses operate, with new models offering enhanced capabilities for content generation, data analysis, and process automation.",
+    "url": "https://marketwatch.com/article/3",
+    "timestamp": "2025-09-19T05:52:59.240822",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_4_1758261209",
+    "title": "SaaS Companies Report Strong Q1 Earnings",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://marketwatch.com/article/4",
+    "timestamp": "2025-09-19T05:53:29.241483",
+    "source": "Market Data"
+  },
+  {
+    "id": "pathway_5_1758261268",
+    "title": "Cloud Computing Revenue Exceeds Projections",
+    "content": "Market research indicates that companies implementing AI productivity tools are seeing average efficiency gains of 25-40% across various operational metrics.",
+    "url": "https://bloomberg.com/article/5",
+    "timestamp": "2025-09-19T05:54:28.243296",
+    "source": "Market Data"
   }
 ]

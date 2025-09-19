@@ -225,25 +225,21 @@ if __name__ == "__main__":
       const marketDataExists = sources.find(s => s.name === 'Market Data');
       
       if (!techNewsExists) {
-        await storage.db.insert(storage.liveDataSources).values({
-          name: 'Tech News',
-          type: 'news',
-          url: 'https://techcrunch.com',
-          isActive: true,
-          lastUpdate: new Date(),
-          metadata: { pathwayIntegrated: true }
-        });
+        await storage.createLiveDataSource(
+          'Tech News',
+          'news',
+          'https://techcrunch.com',
+          { pathwayIntegrated: true }
+        );
       }
       
       if (!marketDataExists) {
-        await storage.db.insert(storage.liveDataSources).values({
-          name: 'Market Data',
-          type: 'market',
-          url: 'https://bloomberg.com',
-          isActive: true,
-          lastUpdate: new Date(),
-          metadata: { pathwayIntegrated: true }
-        });
+        await storage.createLiveDataSource(
+          'Market Data',
+          'market',
+          'https://bloomberg.com',
+          { pathwayIntegrated: true }
+        );
       }
     } catch (error) {
       console.error('Error updating live data sources:', error);

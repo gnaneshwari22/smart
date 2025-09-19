@@ -116,6 +116,7 @@ export const insertReportSchema = createInsertSchema(reports).pick({
   citations: true,
   sourceTypes: true,
   processingTimeMs: true,
+  creditsUsed: true,
 });
 
 export const researchQuerySchema = z.object({
