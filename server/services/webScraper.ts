@@ -36,7 +36,7 @@ export class WebScraper {
             publishedDate: result.publishedDate,
           });
         } catch (error) {
-          console.error(`Failed to scrape ${result.url}:`, error.message);
+          console.error(`Failed to scrape ${result.url}:`, error instanceof Error ? error.message : 'Unknown error');
           // Use snippet as fallback content
           sources.push({
             title: result.title,
@@ -155,7 +155,7 @@ export class WebScraper {
       
       return content.substring(0, 8000); // Limit content length
     } catch (error) {
-      throw new Error(`Failed to scrape webpage: ${error.message}`);
+      throw new Error(`Failed to scrape webpage: ${error instanceof Error ? error.message : 'Unknown error'}`);
     }
   }
 

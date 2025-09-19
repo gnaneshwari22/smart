@@ -62,7 +62,7 @@ export class ReportGenerator {
         sourceBreakdown,
       };
     } catch (error) {
-      throw new Error(`Report generation failed: ${error.message}`);
+      throw new Error(`Report generation failed: ${error instanceof Error ? error.message : 'Unknown error'}`);
     }
   }
 
@@ -170,7 +170,7 @@ export class ReportGenerator {
 
       return savedReport.id;
     } catch (error) {
-      throw new Error(`Failed to save report: ${error.message}`);
+      throw new Error(`Failed to save report: ${error instanceof Error ? error.message : 'Unknown error'}`);
     }
   }
 

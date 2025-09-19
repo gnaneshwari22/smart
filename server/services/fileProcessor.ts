@@ -22,7 +22,7 @@ export const upload = multer({
     if (allowedMimes.includes(file.mimetype)) {
       cb(null, true);
     } else {
-      cb(new Error('Unsupported file type'), false);
+      cb(new Error('Unsupported file type'));
     }
   },
 });
@@ -81,7 +81,7 @@ export async function processUploadedFile(file: Express.Multer.File): Promise<Pr
       metadata,
     };
   } catch (error) {
-    throw new Error(`Failed to process file: ${error.message}`);
+    throw new Error(`Failed to process file: ${error instanceof Error ? error.message : 'Unknown error'}`);
   }
 }
 

@@ -92,7 +92,7 @@ Ensure all insights are backed by the provided sources and include proper citati
       confidence: result.confidence || 0.8
     };
   } catch (error) {
-    throw new Error(`Failed to generate research report: ${error.message}`);
+    throw new Error(`Failed to generate research report: ${error instanceof Error ? error.message : 'Unknown error'}`);
   }
 }
 
